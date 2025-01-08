@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Enterprise Resource Planning Registration  App/1.0.0": {
+        "runtime": {
+          "Enterprise Resource Planning Registration  App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Enterprise Resource Planning Registration  App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,49 @@
+Name: samarth
+Email: samarth@gmail.com
+Phone: 9876543210
+Date of Birth: 30-11-2024
+Gender: FEMALE
+Address: 576 sector 6 pkl
+---------------------------------------------
+Name: Sam
+Email: samarth.ghag@bcah.christuniversity.com
+Phone: 9756327101
+Date of Birth: 29-12-2024
+Gender: MALE
+Address: #67 sec 1 pkl
+---------------------------------------------
+Name: Sandesh Ghag
+Email: sandesh@gmail.com
+Phone: 9875269358
+Date of Birth: 13-07-1995
+Gender: MALE
+Address: #89 sec 5 pkl
+---------------------------------------------
+Name: Sandesh ghag
+Email: sandesh@gmail.com
+Phone: 8778994562
+Date of Birth: 13-07-1815
+Gender: MALE
+Address: #456 sector 6 pkl
+---------------------------------------------
+Name: Ansh
+Email: ansh@gmail.com
+Phone: 9847362514
+Date of Birth: 01-02-2000
+Gender: MALE
+Address: #2341 sec 21 pkl
+---------------------------------------------
+Name: Samarth Ghag
+Email: samarth@gmail.com
+Phone: 9875698632
+Date of Birth: 15-04-2005
+Gender: MALE
+Address: #605 sec 6 pkl
+---------------------------------------------
+Name: samarth
+Email: a@gmail.com
+Phone: 1234567890
+Date of Birth: 08-01-2025
+Gender: MALE
+Address: 123
+---------------------------------------------

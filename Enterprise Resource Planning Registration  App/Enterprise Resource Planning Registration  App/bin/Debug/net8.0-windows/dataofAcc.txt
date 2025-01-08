@@ -1,0 +1,3 @@
+Bank Name: State Bank Of India, Account Number: 235689741369, IFSC Code: SB0147, Salary: 1000000000 , PAN Card Number: ESDF9S2342 , Aadhar Card Number: 234569140339
+Bank Name: AXIS bank, Account Number: 123456789111, IFSC Code: AXS239, Salary: 36000000 , PAN Card Number: AFG65G6939 , Aadhar Card Number: 235689789546
+Bank Name: State Bank of India, Account Number: 123456789123, IFSC Code: SBI205, Salary: 9900000000 , PAN Card Number: ABCE5D2541 , Aadhar Card Number: 235689471209
